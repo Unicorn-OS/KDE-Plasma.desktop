@@ -1,0 +1,8 @@
+- name: Install KDE Plasma minimal desktop
+  ansible.builtin.apt:
+    pkg:
+    - kde-plasma-desktop
+    - sddm
+  become: true
+
+- include_tasks: dm.yml

@@ -4,3 +4,9 @@
 # Theme
 ~/.config/kdedefaults/kdeglobals
 ~/.config/kdedefaults/plasmarc
+
+# Main
+~/.config/kdeglobals
+
+# Hotkeys
+~/.config/kglobalshortcutsrc

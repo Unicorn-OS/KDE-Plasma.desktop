@@ -5,8 +5,9 @@
 # GTK
 ~/.config/xsettingsd/xsettingsd.conf
 
-# Hotkeys
+# Hotkeys | Shortcuts
 ~/.config/kglobalshortcutsrc
+~/.config/khotkeysrc
 
 # Mouse Speed
 ~/.config/kcminputrc

@@ -8,12 +8,16 @@
 # GTK
 ~/.config/xsettingsd/xsettingsd.conf
 
+# Home Folders
+~/.config/user-dirs.dirs
+
 # Hotkeys | Shortcuts
 ~/.config/kglobalshortcutsrc
 ~/.config/khotkeysrc
 
 # Keyboard
 ~/.config/plasma-localerc
+~/.config/user-dirs.locale
 
 # Lock Screen & Power
 ~/.config/kscreenlockerrc
@@ -45,5 +49,9 @@
 # Window Focus Mode
 ~/.config/kwinrc
 
-# ?
+# Panel?
 ~/.config/plasma-org.kde.plasma.desktop-appletsrc    # I think this is Panel related.
+
+
+# ?
+/home/me/.config/kdedefaults/

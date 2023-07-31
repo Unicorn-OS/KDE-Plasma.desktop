@@ -1,12 +1,15 @@
+# Activities
+~/.config/kactivitymanagerdrc
+
 # GTK
 ~/.config/xsettingsd/xsettingsd.conf
 
-# Theme
-~/.config/kdedefaults/kdeglobals
-~/.config/kdedefaults/plasmarc
+# Hotkeys
+~/.config/kglobalshortcutsrc
 
 # Main
 ~/.config/kdeglobals
 
-# Hotkeys
-~/.config/kglobalshortcutsrc
+# Theme
+~/.config/kdedefaults/kdeglobals
+~/.config/kdedefaults/plasmarc

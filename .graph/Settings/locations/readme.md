@@ -53,5 +53,5 @@
 ~/.config/plasma-org.kde.plasma.desktop-appletsrc    # I think this is Panel related.
 
 
-# ?
+# default?
 /home/me/.config/kdedefaults/

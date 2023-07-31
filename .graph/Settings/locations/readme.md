@@ -15,17 +15,22 @@
 # Keyboard
 ~/.config/plasma-localerc
 
-# Lock Screen & Suspend
+# Lock Screen & Power
 ~/.config/kscreenlockerrc
+~/.config/powermanagementprofilesrc
 
 # Mouse Speed
 ~/.config/kcminputrc
+
+# Startup
+~/.config/plasma-welcomerc
 
 # Stor
 ~/.config/knfsshare
 
 # Theme
 ~/.config/kdeglobals
+~/.config/plasmarc
 
 ~/.config/kdedefaults/kdeglobals
 ~/.config/kdedefaults/plasmarc
